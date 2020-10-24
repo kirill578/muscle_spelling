@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/react-template/static/css/main.34de6062.chunk.css",
-    "main.js": "/react-template/static/js/main.2e579dbd.chunk.js",
-    "main.js.map": "/react-template/static/js/main.2e579dbd.chunk.js.map",
-    "runtime-main.js": "/react-template/static/js/runtime-main.e6a00116.js",
-    "runtime-main.js.map": "/react-template/static/js/runtime-main.e6a00116.js.map",
-    "static/css/2.2a61b6f0.chunk.css": "/react-template/static/css/2.2a61b6f0.chunk.css",
-    "static/js/2.3666c41a.chunk.js": "/react-template/static/js/2.3666c41a.chunk.js",
-    "static/js/2.3666c41a.chunk.js.map": "/react-template/static/js/2.3666c41a.chunk.js.map",
-    "static/js/3.e16e6d70.chunk.js": "/react-template/static/js/3.e16e6d70.chunk.js",
-    "static/js/3.e16e6d70.chunk.js.map": "/react-template/static/js/3.e16e6d70.chunk.js.map",
-    "index.html": "/react-template/index.html",
-    "precache-manifest.bcb28b0569454a79d1f352b2c29bd48f.js": "/react-template/precache-manifest.bcb28b0569454a79d1f352b2c29bd48f.js",
-    "service-worker.js": "/react-template/service-worker.js",
-    "static/css/2.2a61b6f0.chunk.css.map": "/react-template/static/css/2.2a61b6f0.chunk.css.map",
-    "static/css/main.34de6062.chunk.css.map": "/react-template/static/css/main.34de6062.chunk.css.map",
-    "static/media/fail.mp3": "/react-template/static/media/fail.23730a41.mp3",
-    "static/media/success.mp3": "/react-template/static/media/success.a8e58690.mp3"
+    "main.css": "/muscle_spelling/static/css/main.34de6062.chunk.css",
+    "main.js": "/muscle_spelling/static/js/main.51670d00.chunk.js",
+    "main.js.map": "/muscle_spelling/static/js/main.51670d00.chunk.js.map",
+    "runtime-main.js": "/muscle_spelling/static/js/runtime-main.9a8843bb.js",
+    "runtime-main.js.map": "/muscle_spelling/static/js/runtime-main.9a8843bb.js.map",
+    "static/css/2.2a61b6f0.chunk.css": "/muscle_spelling/static/css/2.2a61b6f0.chunk.css",
+    "static/js/2.455fffa8.chunk.js": "/muscle_spelling/static/js/2.455fffa8.chunk.js",
+    "static/js/2.455fffa8.chunk.js.map": "/muscle_spelling/static/js/2.455fffa8.chunk.js.map",
+    "static/js/3.d8171a90.chunk.js": "/muscle_spelling/static/js/3.d8171a90.chunk.js",
+    "static/js/3.d8171a90.chunk.js.map": "/muscle_spelling/static/js/3.d8171a90.chunk.js.map",
+    "index.html": "/muscle_spelling/index.html",
+    "precache-manifest.b65e12dc9c2114c725d5ba37adefcfd6.js": "/muscle_spelling/precache-manifest.b65e12dc9c2114c725d5ba37adefcfd6.js",
+    "service-worker.js": "/muscle_spelling/service-worker.js",
+    "static/css/2.2a61b6f0.chunk.css.map": "/muscle_spelling/static/css/2.2a61b6f0.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/muscle_spelling/static/css/main.34de6062.chunk.css.map",
+    "static/media/fail.mp3": "/muscle_spelling/static/media/fail.23730a41.mp3",
+    "static/media/success.mp3": "/muscle_spelling/static/media/success.a8e58690.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.e6a00116.js",
+    "static/js/runtime-main.9a8843bb.js",
     "static/css/2.2a61b6f0.chunk.css",
-    "static/js/2.3666c41a.chunk.js",
+    "static/js/2.455fffa8.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.2e579dbd.chunk.js"
+    "static/js/main.51670d00.chunk.js"
   ]
 }
