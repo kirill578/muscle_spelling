@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/muscle_spelling/static/css/main.34de6062.chunk.css",
-    "main.js": "/muscle_spelling/static/js/main.51670d00.chunk.js",
-    "main.js.map": "/muscle_spelling/static/js/main.51670d00.chunk.js.map",
-    "runtime-main.js": "/muscle_spelling/static/js/runtime-main.9a8843bb.js",
-    "runtime-main.js.map": "/muscle_spelling/static/js/runtime-main.9a8843bb.js.map",
+    "main.js": "/muscle_spelling/static/js/main.096cc50a.chunk.js",
+    "main.js.map": "/muscle_spelling/static/js/main.096cc50a.chunk.js.map",
+    "runtime-main.js": "/muscle_spelling/static/js/runtime-main.8756c688.js",
+    "runtime-main.js.map": "/muscle_spelling/static/js/runtime-main.8756c688.js.map",
     "static/css/2.2a61b6f0.chunk.css": "/muscle_spelling/static/css/2.2a61b6f0.chunk.css",
-    "static/js/2.455fffa8.chunk.js": "/muscle_spelling/static/js/2.455fffa8.chunk.js",
-    "static/js/2.455fffa8.chunk.js.map": "/muscle_spelling/static/js/2.455fffa8.chunk.js.map",
-    "static/js/3.d8171a90.chunk.js": "/muscle_spelling/static/js/3.d8171a90.chunk.js",
-    "static/js/3.d8171a90.chunk.js.map": "/muscle_spelling/static/js/3.d8171a90.chunk.js.map",
+    "static/js/2.2c3d2f8a.chunk.js": "/muscle_spelling/static/js/2.2c3d2f8a.chunk.js",
+    "static/js/2.2c3d2f8a.chunk.js.map": "/muscle_spelling/static/js/2.2c3d2f8a.chunk.js.map",
+    "static/js/3.2a6ea2d6.chunk.js": "/muscle_spelling/static/js/3.2a6ea2d6.chunk.js",
+    "static/js/3.2a6ea2d6.chunk.js.map": "/muscle_spelling/static/js/3.2a6ea2d6.chunk.js.map",
     "index.html": "/muscle_spelling/index.html",
-    "precache-manifest.b65e12dc9c2114c725d5ba37adefcfd6.js": "/muscle_spelling/precache-manifest.b65e12dc9c2114c725d5ba37adefcfd6.js",
+    "precache-manifest.2566bbb73d325ff99ea0d126a4252eae.js": "/muscle_spelling/precache-manifest.2566bbb73d325ff99ea0d126a4252eae.js",
     "service-worker.js": "/muscle_spelling/service-worker.js",
     "static/css/2.2a61b6f0.chunk.css.map": "/muscle_spelling/static/css/2.2a61b6f0.chunk.css.map",
     "static/css/main.34de6062.chunk.css.map": "/muscle_spelling/static/css/main.34de6062.chunk.css.map",
@@ -19,10 +19,10 @@
     "static/media/success.mp3": "/muscle_spelling/static/media/success.a8e58690.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a8843bb.js",
+    "static/js/runtime-main.8756c688.js",
     "static/css/2.2a61b6f0.chunk.css",
-    "static/js/2.455fffa8.chunk.js",
+    "static/js/2.2c3d2f8a.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.51670d00.chunk.js"
+    "static/js/main.096cc50a.chunk.js"
   ]
 }
