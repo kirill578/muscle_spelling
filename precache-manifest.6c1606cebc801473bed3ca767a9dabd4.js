@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75b4324d281a93ffe1fa49d4541b01b9",
+    "revision": "cf881835133115e742da605fb00a9204",
     "url": "/muscle_spelling/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/muscle_spelling/static/css/2.2a61b6f0.chunk.css"
   },
   {
-    "revision": "739b1ddc579d6bc49a95",
+    "revision": "00fdb00b3a85b2a26e52",
     "url": "/muscle_spelling/static/css/main.34de6062.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/muscle_spelling/static/js/3.9a2d47a6.chunk.js"
   },
   {
-    "revision": "739b1ddc579d6bc49a95",
-    "url": "/muscle_spelling/static/js/main.3f0f1880.chunk.js"
+    "revision": "00fdb00b3a85b2a26e52",
+    "url": "/muscle_spelling/static/js/main.0a659578.chunk.js"
   },
   {
     "revision": "9694b134c5af2f6c2f51",
