@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfca0b10cd1726d823983d3a0bb7c6ac",
+    "revision": "0c6ebe63979b94c7b8f0ac7f1eb9d270",
     "url": "/muscle_spelling/index.html"
   },
   {
