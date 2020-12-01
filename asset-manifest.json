@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/muscle_spelling/static/css/main.34de6062.chunk.css",
-    "main.js": "/muscle_spelling/static/js/main.08b50d4a.chunk.js",
-    "main.js.map": "/muscle_spelling/static/js/main.08b50d4a.chunk.js.map",
+    "main.js": "/muscle_spelling/static/js/main.a0fa2293.chunk.js",
+    "main.js.map": "/muscle_spelling/static/js/main.a0fa2293.chunk.js.map",
     "runtime-main.js": "/muscle_spelling/static/js/runtime-main.69860396.js",
     "runtime-main.js.map": "/muscle_spelling/static/js/runtime-main.69860396.js.map",
     "static/css/2.2a61b6f0.chunk.css": "/muscle_spelling/static/css/2.2a61b6f0.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.96be428f.chunk.js": "/muscle_spelling/static/js/3.96be428f.chunk.js",
     "static/js/3.96be428f.chunk.js.map": "/muscle_spelling/static/js/3.96be428f.chunk.js.map",
     "index.html": "/muscle_spelling/index.html",
-    "precache-manifest.5752efda86622cff42b25947827cf534.js": "/muscle_spelling/precache-manifest.5752efda86622cff42b25947827cf534.js",
+    "precache-manifest.ef97d62eee42327be8ad407bc255b221.js": "/muscle_spelling/precache-manifest.ef97d62eee42327be8ad407bc255b221.js",
     "service-worker.js": "/muscle_spelling/service-worker.js",
     "static/css/2.2a61b6f0.chunk.css.map": "/muscle_spelling/static/css/2.2a61b6f0.chunk.css.map",
     "static/css/main.34de6062.chunk.css.map": "/muscle_spelling/static/css/main.34de6062.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.2a61b6f0.chunk.css",
     "static/js/2.1711ef9d.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.08b50d4a.chunk.js"
+    "static/js/main.a0fa2293.chunk.js"
   ]
 }
